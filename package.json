@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Orionjs atom helper package",
   "keywords": [],
-  "repository": "https://github.com/atom/atom",
+  "repository": "https://github.com/orionjs/orionjs-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
