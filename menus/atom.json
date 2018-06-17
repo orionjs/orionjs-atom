@@ -5,23 +5,30 @@
         "label": "Orionjs",
         "submenu": [
           {
-            "label": "Create a resolver",
+            "label": "Create a Resolver",
             "command": "orionjs:create-resolver"
           },
           {
-            "label": "Create a new collection",
-            "command": "orionjs:create-collection"
+            "label": "Create a Mutation Resolver",
+            "command": "orionjs:create-mutation"
           },
           {
-            "label": "Create a new model",
-            "command": "orionjs:create-model"
-          },
-          {
-            "label": "Create resolvers group",
+            "label": "Create Resolvers Group",
             "command": "orionjs:create-resolvers-group"
           },
           {
-            "label": "Create a event job",
+            "type": "separator"
+          },
+          {
+            "label": "Create a new Collection",
+            "command": "orionjs:create-collection"
+          },
+          {
+            "label": "Create a new Model",
+            "command": "orionjs:create-model"
+          },
+          {
+            "label": "Create a Event Job",
             "command": "orionjs:create-event-job"
           }
         ]
