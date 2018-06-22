@@ -9,7 +9,7 @@ class QuestionDialog extends Dialog
     super
       prompt: question
       placeholder: placeholder
-      initialPath: ''
+      initialPath: initialPath
       select: false
       iconClass: 'icon-file-add'
 
