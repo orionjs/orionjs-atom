@@ -20,6 +20,29 @@
             "type": "separator"
           },
           {
+            "label": "Create a Paginated Resolver",
+            "command": "orionjs:create-paginated-resolver"
+          },
+          {
+            "label": "Create a Find One Resolver",
+            "command": "orionjs:create-find-one-resolver"
+          },
+          {
+            "label": "Create a Create Mutation",
+            "command": "orionjs:create-create-mutation"
+          },
+          {
+            "label": "Create a Update Mutation",
+            "command": "orionjs:create-update-mutation"
+          },
+          {
+            "label": "Create a Delete Mutation",
+            "command": "orionjs:create-delete-mutation"
+          },
+          {
+            "type": "separator"
+          },
+          {
             "label": "Create a new Collection",
             "command": "orionjs:create-collection"
           },
