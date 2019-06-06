@@ -1,7 +1,7 @@
 {
   "name": "orionjs",
   "main": "./lib/atom",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Orionjs atom helper package",
   "keywords": [],
   "repository": "https://github.com/orionjs/orionjs-atom",
