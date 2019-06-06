@@ -12,11 +12,23 @@
     'prefix': 'find().count()'
     'body': 'find($1).count()'
   'Collection insert':
-    'prefix': 'insert()'
-    'body': 'insert($1)'
+    'prefix': 'insertOne()'
+    'body': 'insertOne($1)'
+  'Collection insert many':
+    'prefix': 'insertMany()'
+    'body': 'insertMany($1)'
   'Collection update':
-    'prefix': 'update()'
-    'body': 'update($1)'
+    'prefix': 'updateOne()'
+    'body': 'updateOne($1)'
+  'Collection update many':
+    'prefix': 'updateMany()'
+    'body': 'updateMany($1)'
   'Collection upsert':
     'prefix': 'upsert()'
     'body': 'upsert($1)'
+  'Collection delete':
+    'prefix': 'deleteOne()'
+    'body': 'deleteOne($1)'
+  'Collection delete many':
+    'prefix': 'deleteMany()'
+    'body': 'deleteMany($1)'
