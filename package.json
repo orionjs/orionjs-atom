@@ -21,7 +21,8 @@
     "escape-string-regexp": "^1.0.5",
     "fs-plus": "^3.0.2",
     "fs-readfile-promise": "^3.0.1",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "prettier": "^1.19.1"
   },
   "devDependencies": {
     "eslint-config-orionsoft": "^1.2.8"
