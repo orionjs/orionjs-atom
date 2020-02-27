@@ -17,6 +17,10 @@
             "command": "orionjs:create-resolvers-group"
           },
           {
+            "label": "Create Component",
+            "command": "orionjs:create-component"
+          },
+          {
             "type": "separator"
           },
           {
