@@ -1,5 +1,9 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom:toggle"
+    "ctrl-alt-o": "atom:toggle",
+    "shift-m": "orionjs:create-model",
+    "shift-c": "orionjs:create-collection",
+    "shift-r": "orionjs:create-resolver",
+    "shift-cmd-r": "orionjs:create-mutation"
   }
 }
